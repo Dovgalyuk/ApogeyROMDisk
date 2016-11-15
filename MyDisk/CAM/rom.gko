@@ -1,0 +1,40 @@
+G04 FreePCB version 1.200*
+G04 \\DISKSTATION\museum\Computers\RK86\Clones\Apogey BK-01\RomDisk\My\CAM\top_copper.grb*
+G04 top copper layer *
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+%FSLAX26Y26*%
+%MOIN*%
+%LNTop*%
+%ADD10C,0.005000*%
+%ADD11R,0.055000X0.055000*%
+%ADD12C,0.055000*%
+%ADD13C,0.075000*%
+%ADD14C,0.028000*%
+%ADD15C,0.010000*%
+G90*
+G70D02*
+
+G04 ----------------------- Draw board outline (positive)*
+%LPD*%
+G54D10*
+G01X2310000Y4140000D02*
+G01X4490000Y4140000D01*
+G04 end of side 1*
+G01X4490000Y3640000D01*
+G04 end of side 2*
+G01X4800000Y3330000D01*
+G04 end of side 3*
+G01X4800000Y2190000D01*
+G04 end of side 4*
+G01X2000000Y2190000D01*
+G04 end of side 5*
+G01X2000000Y3330000D01*
+G04 end of side 6*
+G01X2300000Y3630000D01*
+G04 end of side 7*
+G01X2300000Y4140000D01*
+G04 end of side 8*
+G01X2320000Y4140000D01*
+G04 end of side 9*
+G01X2310000Y4140000D01*
+
